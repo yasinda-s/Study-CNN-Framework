@@ -1,0 +1,8 @@
+tensorflow==2.10.0
+numpy==1.21.6
+seaborn==0.12.1
+pandas==1.3.5
+keras==2.10.0
+collections
+Keras-Preprocessing==1.1.2
+matplotlib==3.7.0
